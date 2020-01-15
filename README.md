@@ -1,5 +1,7 @@
 ##  Scalable Hyperparameter Optimization with Lazy Gaussian Processes ##
 
+Original Paper: https://ieeexplore.ieee.org/abstract/document/8950672
+
 This work optimizes a black-box function using 2 variants of Bayesian optimization:
 
     1) Classical Gaussian process
