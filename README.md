@@ -85,4 +85,4 @@ Fraunhofer Institute for Industrial Mathematics, Germany
 Sabine Müller (sabine.b.mueller@itwm.fraunhofer.de)
 Fraunhofer Institute for Industrial Mathematics, Germany
 
-Please use the Bibtex from [paper]( 10.1109/MLHPC49564.2019.00011) to cite our work. 
+Please use the Bibtex from [paper](https://ieeexplore.ieee.org/document/8950672) to cite our work. 
