@@ -77,3 +77,12 @@ python run_cifar10.py --seed= < numseeds > --iter = < numiters >, e.g. python ru
 The desired accuracy in the neural networks can be modeled by setting the parameter 'eps' in the script, 
 e.g. inside run_cifar10.py:  eps=0.21 means reaching an accuracy of  0.79 (1 - 0.21). 
 Once this accuracy is reached, the iteration loop will break.
+
+## Authors
+Raju Ram (raju.ram@itwm.fraunhofer.de) 
+Fraunhofer Institute for Industrial Mathematics, Germany
+
+Sabine Müller (sabine.b.mueller@itwm.fraunhofer.de)
+Fraunhofer Institute for Industrial Mathematics, Germany
+
+Please use the Bibtex from [paper]( 10.1109/MLHPC49564.2019.00011) to cite our work. 
