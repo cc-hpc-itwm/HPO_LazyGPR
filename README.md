@@ -2,6 +2,8 @@
 
 Original Paper: https://ieeexplore.ieee.org/abstract/document/8950672
 
+Arxiv Paper: https://arxiv.org/abs/2001.05726 
+
 This work optimizes a black-box function using 2 variants of Bayesian optimization:
 
     1) Classical Gaussian process
